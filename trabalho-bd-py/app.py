@@ -1,4 +1,3 @@
-# Alunos : Lucas Maciel,  Pedro Otavio Lopes
 
 import psycopg2 
 from psycopg2.extras import DictCursor
